@@ -1,1 +1,1 @@
-web: gunicorn bikeapp:app
+web: gunicorn app:app
